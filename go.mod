@@ -1,4 +1,4 @@
-module github.com/dariopb/gosenseapp
+module github.com/brmo/ha-gosenseapp
 
 go 1.12
 
