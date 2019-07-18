@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/dariopb/gosenseapp"
+	"github.com/brmo/ha-gosenseapp"
 
 	log "github.com/sirupsen/logrus"
 )
